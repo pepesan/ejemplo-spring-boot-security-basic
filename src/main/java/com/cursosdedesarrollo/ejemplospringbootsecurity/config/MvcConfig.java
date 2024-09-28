@@ -1,4 +1,4 @@
-package com.cursosdedesarrollo.ejemplospringbootsecurityjwt.config;
+package com.cursosdedesarrollo.ejemplospringbootsecurity.config;
 
 
 import org.springframework.context.annotation.Configuration;
